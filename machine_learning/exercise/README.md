@@ -1,1 +1,1 @@
-machine_learning exercise file
+machine learning exercise file
