@@ -9,7 +9,8 @@ A = [];
 %               represent the return values (at the top of the file)
 %               and then set them accordingly. 
 
-
+% eye will generate ? x ? identity matrix
+A = eye(5)
 
 
 
